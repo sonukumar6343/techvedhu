@@ -1,6 +1,6 @@
 import React from 'react';
 import Ravina from "../assets/Ravina.png"
-import Vijay from "../assets/Vijay.png"
+import Vijay from "../assets/vijay.png"
 
 const TestimonialCards = () => {
   return (
