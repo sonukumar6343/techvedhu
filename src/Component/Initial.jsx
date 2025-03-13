@@ -23,7 +23,7 @@ import img1 from "../assets/Group 38.png";
 import img2 from "../assets/Group 37.png";
 import CognizantLogo from "../assets/Cognizant-Logo 1.png";
 import AccentureLogo from "../assets/Accenture-logo 1.png";
-import ZohoLogo from "../assets/zoho_Corporation-Logo 1.png";
+import ZohoLogo from "../assets/Zoho_Corporation-Logo 1.png";
 import MicrosoftLogo from "../assets/png-transparent-microsoft-logo-company-microsoft-publisher-text-rectangle-microsoft-removebg-preview 1.png";
 import AmazonLogo from "../assets/amazonLogo.png";
 import WalmartLogo from "../assets/walmart-logo-11530965898abz7wth9aw-removebg-preview 1.png";
