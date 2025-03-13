@@ -18,7 +18,7 @@ import SchoolIcon from "../assets/Graduation Cap.png";
 import LiveTvIcon from "../assets/Teacher.png";
 import VerifiedUserIcon from "../assets/Development Skill.png";
 import SupportAgentIcon from "../assets/Service.png";
-import AssessmentIcon from "../assets/inspection.png";
+import AssessmentIcon from "../assets/Inspection.png";
 import img1 from "../assets/Group 38.png";
 import img2 from "../assets/Group 37.png";
 import CognizantLogo from "../assets/Cognizant-Logo 1.png";
